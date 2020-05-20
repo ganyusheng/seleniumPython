@@ -1,0 +1,6 @@
+test
+2020-05-20 15:08:40,189 user_log.py <module> 10 DEBUG test5415415as5a416s516
+2020-05-20 15:11:33,985 user_log.py---> <module> 10: DEBUG---> test5415415as5a416s516
+2020-05-20 15:15:31,631 user_log.py---> <module> 10: DEBUG---> test5415415as5a416s516
+2020-05-20 15:17:03,333 user_log.py---> <module> 10: DEBUG---> test5415415as5a416s516
+2020-05-20 15:21:27,144 user_log.py---> <module> 10: DEBUG---> test5415415as5a416s516
